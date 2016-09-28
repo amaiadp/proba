@@ -25,6 +25,7 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Donostia");
 		h2012.gehituMahaia("Tolosa");
 		h2012.gehituMahaia("Amaia de Pablo");
+		h2012.gehituMahaia("zihara");
 		
 		System.out.println(h2012);
 	}
